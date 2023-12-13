@@ -826,6 +826,7 @@ main section.image img{
 
     main.download section:nth-of-type(3) article h2 {
         font-size: 2.5em;
+        margin-top: -1.5em;
     }
 
     main.download section:nth-of-type(4) article {
